@@ -1,0 +1,1 @@
+window.bootsrtap=require('bootstrap');
